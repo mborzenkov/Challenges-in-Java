@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Challenges in Java
+description: Coding challenges in java solved, tested and commented
 ---
 
 ## Search
