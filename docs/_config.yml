@@ -1,3 +1,9 @@
+title: Challenges-in-Java
+description: Coding challenges in java solved, tested and commented
+show_downloads: false
+# google_analytics:
 theme: jekyll-theme-minimal
-title: title
-description: desc
+author: mborzenkov
+author_email: mborzenkov-dev@yandex.ru
+repository: mborzenkov/Challenges-in-Java
+exclude: [ demo.md ]
