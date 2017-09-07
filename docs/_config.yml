@@ -1,3 +1,6 @@
+plugins:
+- jekyll-email-protect
+
 title: Challenges in Java
 description: Coding challenges in java solved, tested and commented
 show_downloads: false
@@ -7,4 +10,5 @@ author: mborzenkov
 author_email: mborzenkov-dev@yandex.ru
 repository: mborzenkov/Challenges-in-Java
 url: https://mborzenkov.github.io/Challenges-in-Java/
+email: 
 exclude: [ demo.md ]
