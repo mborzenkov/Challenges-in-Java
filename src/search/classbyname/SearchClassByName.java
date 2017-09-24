@@ -76,7 +76,7 @@ class SearchClassByName {
          *      AAa     2           АaА 1
          *      aAB     1           aAB 1
          *
-         * @param obj object for comparsion
+         * @param obj object for comparison
          *
          * @return Negative integer, zero, or a positive integer as this object is less than, equal to, or greater
          *          than the specified object.
