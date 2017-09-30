@@ -10,5 +10,6 @@ author: mborzenkov
 author_email: mborzenkov-dev@yandex.ru
 repository: mborzenkov/Challenges-in-Java
 url: https://mborzenkov.github.io/Challenges-in-Java/
-email: 
+email:
 exclude: [ demo.md ]
+markdown: kramdown

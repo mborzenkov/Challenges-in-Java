@@ -15,6 +15,16 @@
 	{% if page.metatags %}
 		<meta name="robots" content="{{page.metatags}}">
 	{% endif %}
+    {% if page.math %}
+        <script type="text/javascript" async
+          src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({
+              displayAlign: "left"
+            });
+        </script>
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
